@@ -1,0 +1,157 @@
+header
+{
+    height: 195px;
+    background-color: #333333;
+}
+#header-top-bonus
+{
+    height: 40px;
+    padding: 0 71px;
+    color: white;o
+}
+#header_top
+{
+    width: 1230px;
+    height: 98px;
+    justify-content: center;
+}
+#header-top-img
+{
+    width: 220px;
+}
+#header-top-input
+{
+    height: 40px;
+    width: 390;
+    border-bottom-left-radius: 6px;
+    border: 0;
+    padding: 0;
+}
+#header-top-button
+{
+    height: 40px;
+    width: 70px;
+    border-top-right-radius: 5px;
+    border: 0;
+    padding: 0;
+    border-left: 20px;
+}
+#header_bottom {
+    height: 51px;
+    display: flex;
+    justify-content: center;
+}
+.header-link{
+    color: white;
+    font-family: "Roboto",sans-serif;
+    padding: 0 1.5%;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 550;
+    font-size: 13px;
+}
+.header-link:hover{
+    color: aqua;
+    text-decoration: underline auto;
+    margin-bottom: 4px;
+}
+
+   /* *** Main *** */
+main
+{
+
+}
+                                    /* *** Slider *** */
+#slider{
+    height: 600px;
+}
+#slider-main
+{
+    position: relative;
+}
+#slider-img{
+    height:100%;
+    object-fit: contain;
+}
+
+                                    /* *** Trend *** */
+#trend
+{
+
+}
+
+                                    /* *** Product *** */
+#product
+{
+
+}
+            /* *** Special-product *** */
+#special-product
+{
+
+}
+#special-product-top
+{
+    text-align: center;
+}
+#special-product-bottom
+{
+    text-align: center;
+}
+            /* *** Demo-product *** */
+#demo-product
+{
+
+}
+#trend
+{
+
+}
+            /* *** Some-product *** */
+#some-product
+{
+
+}
+#some-product-main
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.some-product-main-each
+{
+
+}
+.some-product-main-each-img
+{
+ margin: 30px;
+}
+                                    /* *** Blog *** */
+#blog
+{
+
+}
+#blog-main
+{
+
+}
+#blog-main-top
+{
+
+}
+#blog-main-bottom
+{
+
+}
+                                    /* *** Subcribe *** */
+#subscribe
+{
+
+}
+
+    /* *** Footer *** */
+footer
+{
+    color: aliceblue;
+    background-color: #333333;
+}
